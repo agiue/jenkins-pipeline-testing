@@ -1,2 +1,0 @@
-# jenkins-pipeline-testing
-Test 
